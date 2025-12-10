@@ -3,6 +3,7 @@
 [![Google API](https://img.shields.io/badge/Google%20API-Gemini-red?style=flat-square&logo=google&logoColor=white)](https://ai.google.dev)
 [![License](https://img.shields.io/badge/License-Apache%202.0-orange?style=flat-square)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/DeepMind-Craft/ai?style=flat-square&logo=github)](https://github.com/DeepMind-Craft/ai)
+
 <p align="center">
   <img src="assets/real-time-detection-demo.gif" width="700" alt="Real-time AI description demo"/>
 </p>
